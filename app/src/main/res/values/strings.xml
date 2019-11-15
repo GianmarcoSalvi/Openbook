@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Openbook</string>
+    <string name="title_search">Cerca</string>
+    <string name="title_favorite">Salvati</string>
+    <string name="title_add">Inserisci</string>
+    <string name="title_profile">Profilo</string>
+    <string name="title_message">Messaggi</string>
+
+    <string name="navigaion_drawer_open">Open navigation drawer</string>
+    <string name="navigaion_drawer_close">Close navigation drawer</string>
+</resources>
